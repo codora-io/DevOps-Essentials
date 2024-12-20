@@ -1,5 +1,5 @@
 
-<!-- Example code for how to use this modules. -->
+## Example code for how to use this modules
 ``` bash
 module "apigw_sqs_integration" {
   source     = "../../modules/api-gateway"
